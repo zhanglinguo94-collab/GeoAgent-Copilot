@@ -2,11 +2,10 @@
 
 Created time: 2026年5月9日 12:49
 
-[Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=streamlit)
+[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=streamlit)]([这里填你的在线体验网址])
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Model](https://img.shields.io/badge/AI_Model-GLM--4-orange?style=for-the-badge&logo=openai)
 
-[Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-
-[Model](https://img.shields.io/badge/AI_Model-GLM--4-orange?style=for-the-badge&logo=openai)
 
 ---
 
