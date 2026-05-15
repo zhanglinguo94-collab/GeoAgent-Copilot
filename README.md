@@ -22,7 +22,7 @@ Created time: 2026年5月9日 12:49
 - 🧠 **空间商业聚类分析 (DBSCAN)**
 - 🗺️ **交互式地图动态可视化**
 
-> **🚀 立即体验：[点击这里访问 GeoAgent 网页版](https://www.notion.so/%5B%E8%BF%99%E9%87%8C%E5%A1%AB%E4%BD%A0%E7%9A%84%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C%E7%BD%91%E5%9D%80%5D)**
+> **🚀 立即体验：[点击这里访问 GeoAgent 网页版](https://geoagent-copilot.streamlit.app/)**
 > 
 
 ---
