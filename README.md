@@ -47,7 +47,7 @@ Created time: 2026年5月9日 12:49
 ### 5. 项目完整演示视频
 
 ## Demo 视频
-[观看 Demo]([https://youtube.com/xxxx](https://t.bilibili.com/1202566855520157704?share_source=pc_native))
+https://youtube.com/xxxx](https://t.bilibili.com/1202566855520157704?share_source=pc_native
 
 ## ③ 技术架构
 
