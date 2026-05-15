@@ -31,20 +31,19 @@ Created time: 2026年5月9日 12:49
 
 ### 1. 沉浸式左右分栏主界面 (Dashboard)
 
-[主界面](https://www.notion.so%5B%E8%AF%B7%E5%9C%A8%E8%BF%99%E9%87%8C%E5%A1%AB%E5%85%A5%E4%BD%A0%E7%9A%84%E4%B8%BB%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE%E9%93%BE%E6%8E%A5%5D)
+![主界面](ui.png)
 
 ### 2. Multi-Step Agent 意图拆解与规划 (JSON Planning)
 
-[Agent计划](https://www.notion.so%5B%E8%AF%B7%E5%9C%A8%E8%BF%99%E9%87%8C%E5%A1%AB%E5%85%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BAJSON%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E6%88%AA%E5%9B%BE%E9%93%BE%E6%8E%A5%5D)
+![Agent计划](json.png)
 
 ### 3. 空间密度热力图渲染 (Heatmap Visualization)
 
-[热力图](https://www.notion.so%5B%E8%AF%B7%E5%9C%A8%E8%BF%99%E9%87%8C%E5%A1%AB%E5%85%A5%E4%BD%A0%E7%9A%84%E7%83%AD%E5%8A%9B%E5%9B%BE%E6%88%AA%E5%9B%BE%E9%93%BE%E6%8E%A5%5D)
+![热力图](heatmap.png)
 
 ### 4. 商业空间聚类分析 (DBSCAN Clustering)
 
-[聚类图](https://www.notion.so%5B%E8%AF%B7%E5%9C%A8%E8%BF%99%E9%87%8C%E5%A1%AB%E5%85%A5%E4%BD%A0%E7%9A%84%E8%81%9A%E7%B1%BB%E5%9C%B0%E5%9B%BE%E6%88%AA%E5%9B%BE%E9%93%BE%E6%8E%A5%5D)
-
+![聚类图](cluster.png)
 ---
 
 ## ③ 技术架构
