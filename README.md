@@ -26,7 +26,7 @@ Created time: 2026年5月9日 12:49
 
 ---
 
-## ② 项目截图
+## ② 项目截图与演示视频
 
 ### 1. 沉浸式左右分栏主界面 (Dashboard)
 
@@ -44,6 +44,10 @@ Created time: 2026年5月9日 12:49
 
 ![聚类图](cluster.png)
 ---
+### 5. 项目完整演示视频
+
+## Demo 视频
+[观看 Demo]([https://youtube.com/xxxx](https://t.bilibili.com/1202566855520157704?share_source=pc_native))
 
 ## ③ 技术架构
 
