@@ -47,7 +47,7 @@ Created time: 2026年5月9日 12:49
 ### 5. 项目完整演示视频
 
 ## Demo 视频
-https://youtube.com/xxxx](https://t.bilibili.com/1202566855520157704?share_source=pc_native
+【GeoAgent Copilot --一个基于 LLM + GIS的空间智能分析 Agent】 https://www.bilibili.com/video/BV1M75v6SEbG/?share_source=copy_web&vd_source=6ac55e276e464565c6c1a7df7da0806c
 
 ## ③ 技术架构
 
